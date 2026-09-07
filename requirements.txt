@@ -1,0 +1,3 @@
+# Cowrie manages its dependencies in the Cowrie project.
+# Keep this file intentionally minimal for the portfolio repository.
+# Install dependencies according to the Cowrie version being used.

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Logs and runtime data
+*.log
+logs/
+tmp/
+*.pid
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Virtual machines
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.vmem
+*.nvram
+*.vmss
+*.vmxf
+*.vmx.lck
+*.ova
+*.ovf
+
+# Sensitive project data
+raw-logs/
+private-data/
