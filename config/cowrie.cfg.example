@@ -1,0 +1,13 @@
+# SentryShell - Example Cowrie configuration
+# Replace values according to your isolated lab.
+# This file intentionally contains no credentials or secrets.
+
+[honeypot]
+# Example settings only. Consult the Cowrie version documentation
+# for the exact configuration options supported by your release.
+
+[output_jsonlog]
+enabled = true
+
+# Never place real passwords, API keys, private keys,
+# production IPs, or other secrets in this example file.
